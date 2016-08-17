@@ -2,11 +2,6 @@
 
 *Register with your Email-address*
 
-
-#ICT WORLD  
-
-**Repository Link :**https://github.com/Bbenard/design
-
 **About the project:**It is an  Email-registration   app
 
 **Tools Applied:-**
