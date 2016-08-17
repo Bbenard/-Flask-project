@@ -14,9 +14,9 @@ bootstap framework
 
 **Features:** Its has the following links:-
 
-Sign up page
+index.html
 
-success page
+success.html
 
 
 **Contributors:**https://github.com/Bbenard
