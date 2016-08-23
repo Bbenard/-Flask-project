@@ -12,7 +12,7 @@ css
 
 bootstap framework\
 
-postgress
+Postgress Database
 
 **Features:** Its has the following links:-
 
